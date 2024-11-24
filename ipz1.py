@@ -8,3 +8,4 @@ def fibonacci_recursive(n):
 
 n = int(input("Введіть номер числа Фібоначчі: "))
 print(f"Число Фібоначчі під номером {n} дорівнює: {fibonacci_recursive(n)}")
+print("bye bye")
